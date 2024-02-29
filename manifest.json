@@ -49,12 +49,13 @@
     }
   ],
 
+  "prefer_related_applications": true,
   "related_applications": [
-    {
-      "platform": "",
+      {
+      "platform": "play",
       "url": "",
-      "id": ""
-    }
+      "id": "com.google.samples.apps.iosched"
+      }
   ]
   
 }
